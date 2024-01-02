@@ -1,0 +1,20 @@
+:root {
+  --pink: hsl(322, 100%, 66%);
+  --very-pale-cyan: hsl(193, 100%, 96%);
+  --very-dark-cyan: hsl(192, 100%, 9%);
+  --grayish-blue: hsl(208, 11%, 55%);
+
+  --poppins: 'Poppins',
+    sans-serif;
+  --open-Sans: 'Open Sans',
+    sans-serif;
+
+  --weight-4-open-sans: 400;
+  --weight-7-open-sans: 700;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
