@@ -18,3 +18,25 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.card {
+  font-family: "Gill Sans", sans-serif;
+  box-shadow: 0 0 10px 0.1px var(--grayish-blue);
+  margin: 20px;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.card h1 {
+  padding: 20px;
+}
+
+.card p {
+  color: var(--grayish-blue);
+}
+
+.card img {
+  padding: 30px;
+  width: 100%;
+}
